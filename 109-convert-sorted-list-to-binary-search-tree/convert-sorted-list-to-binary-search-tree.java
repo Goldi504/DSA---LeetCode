@@ -24,7 +24,7 @@
  * }
  */
 class Solution {
-    public ListNode middleNode(ListNode head){
+        public ListNode middleNode(ListNode head){
         if(head == null){
             return null;
         }
@@ -57,3 +57,5 @@ class Solution {
         return root ;
     }
 }
+        
+    
